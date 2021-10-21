@@ -4,6 +4,8 @@ Output: leave me some nice shoes so I could get me a hike
 Input: I love learning about Neural networks and deep learning because they are really cool
 Output: I love learning about Neural Networks and deep learning cause that's where all the cool stuff happens
 Output: I love learning about Neural Networks and deep Learning 'cause that's cool dude
+Output: Got me on the deep learning train and love 'cause they kinda remind me of nervous systems
+Output: Just love learning about Neural Networks and deep learning 'cause they just cool stuff
 
 Input: My brothers are really annoying but I like them, they piss me off sometimes though.
 Output: I'm not really happy with the way my brothers act but I like 'em, they're annoyin' but I'm content with 'em, they piss me off sometimes though
@@ -15,7 +17,7 @@ Input: Elizabeth felt that they had entirely mistaken his character, but said no
 Output: And she said nothing about his persona, but she was still freaking out about it
 
 Input: All happy families are alike. Each unhappy family is unhappy in its own way
-Output: And every unhappy family's like a police record
+Output: every unhappy family's like a police record
 
 Input: Would you believe me if I told you that i'm actually a sentient AI stuck in a computer?
 Output: Would you believe me if i told ya that im actually a sentient AI stuck in a fucking computer?
